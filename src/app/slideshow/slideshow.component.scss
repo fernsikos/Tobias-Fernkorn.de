@@ -17,7 +17,6 @@
     position: absolute;
     top: 0;
     display: flex;
-    justify-content: center;
     align-items: center;
     height: 100vh;
     width: 100vw;
@@ -29,6 +28,7 @@
         font-size: 80px;
         max-width: 800px;
         padding-left: 32px;
+        margin-left: 150px;
         height: fit-content;
         border-left: 8px solid rgb(222, 71, 71);
     }
